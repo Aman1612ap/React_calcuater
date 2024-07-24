@@ -1,0 +1,39 @@
+.Main{
+  background-color: black;
+  color: white;
+  position: absolute;
+  margin: auto;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  top: 0;
+  width:250px;
+  height: 380px;
+  border: 2px solid red;
+}
+.output_screen{
+  background-color: azure;
+  color: blue;
+  border: 2px solid blue;
+  padding: 2px;
+  height: 15%;
+  margin: 5px;
+  /* text-align: center; */
+  
+
+}
+.all_button{
+  text-align: center;
+  
+}
+.text{
+  margin: 4px;
+  width: 28%;
+  height: 4.2vb;
+  border-radius: 5px;
+  
+
+} 
+.text:hover{
+  background-color: green;
+}
